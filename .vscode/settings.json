@@ -1,0 +1,20 @@
+{
+    "sqltools.connections": [
+        {
+            "mssqlOptions": {
+                "appName": "SQLTools",
+                "useUTC": true,
+                "encrypt": true
+            },
+            "previewLimit": 50,
+            "server": "edcpub-sql-dev.database.windows.net",
+            "port": 1433,
+            "driver": "MSSQL",
+            "name": "Nop-Dev",
+            "group": "NOP",
+            "database": "nop4",
+            "username": "EDCTulsaCloud",
+            "password": "rJ3!*ZKua1QcC$7I62"
+        }
+    ]
+}
